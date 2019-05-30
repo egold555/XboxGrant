@@ -1,0 +1,18 @@
+name: XboxGrant
+main: org.golde.xboxgrant.Main
+version: 1.0
+author: Eric Golde
+description: A plugin that adds a grant command to make pex more intuitive
+website: https://eric.golde.org/
+depends: [PermissionsEx]
+commands:
+   grant:
+      description: Makes pex a lot more intuitive
+      usage: /grant 
+      permission: grant.use
+      permission-message: Sorry, but no.
+   grantreload:
+      description: Reload the grant config file
+      usage: /grantreload 
+      permission: grant.reload
+      permission-message: Sorry, but no.

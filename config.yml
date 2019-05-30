@@ -1,0 +1,16 @@
+prefix: "&bGrants >"
+
+prefixes:
+    - '&c[&5Cool Prefix&c] &d'
+    - '&2[&eAnother Prefix&2] &c'
+    - '&c[&6E&er&ai&bc&9&5s &cR&6a&ei&an&bb&9o&5w &cR&6a&en&ak&b] &6'
+    
+
+#Every kit identifier needs to be different    
+kits:
+  1:
+    name: '&1Awesome &2Kit'
+    perm: 'mykitplugin.awesomekit'
+  2:
+    name: '&d&lBoldness'
+    perm: 'mykitplugin.boldness'
